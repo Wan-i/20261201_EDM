@@ -1,6 +1,6 @@
 @charset "big5";
 /* CSS Document */
-body {background: #2c0706!important; margin: 0 auto!important; /*text-align: center;*/}
+body {background: #ebca92!important; margin: 0 auto!important; /*text-align: center;*/}
 .Area_top .momologo { left: 40px!important; }
 .Area_top .momologo a:hover{ transform: scale(1)!important;}
 .Area_top .momologo a {
@@ -141,7 +141,7 @@ a img,li {
 .momostyle_edm_bn ul li{ width: calc(100% / 2 - 1%); margin:0.5%;}
 
 
-.momostyle_edm_go { width: 100%;  margin:2% auto; text-align: center; background-color: #ebca92;}
+.momostyle_edm_go { width: 100%;  margin:2% auto; text-align: center; background-color: #000000;}
 .momostyle_edm_go ul { max-width: 1220px; margin:0% auto; padding:2% 0; }
 .momostyle_edm_go ul li { width: calc(100% / 1 - 6%); margin:0 3%; }
 .momostyle_edm_go ul li img { max-width: 100%; width: auto;}
